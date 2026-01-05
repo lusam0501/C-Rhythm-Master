@@ -1,4 +1,5 @@
 # C-Rhythm-Master
+{
 #include <iostream>
 #include <vector>
 #include <ctime>
@@ -167,4 +168,5 @@ int main() {
     _getch();
 
     return 0;
+}
 }
